@@ -30,7 +30,7 @@ recomendações. Isso evita erros de matemática comuns em modelos de linguagem.
 ## Instalação
 
 ```bash
-git clone <url-do-seu-repositorio>
+git clone dreckarch/livre-de-dividas
 cd livre-de-dividas
 
 # Backend
@@ -46,7 +46,7 @@ npm install
 cd ..
 
 # IA local (opcional, mas recomendado)
-ollama pull llama3.1
+ollama pull llama3.2
 ```
 
 ## Rodando — modo simples (recomendado)
